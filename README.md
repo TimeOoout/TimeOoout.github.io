@@ -1,3 +1,2 @@
-theme: Cayman
 # TimeOoout.github.io
-## TimeOoout's HomePage
+## This is TimeOoout's HomePage.
