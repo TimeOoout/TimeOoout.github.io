@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### 这里是TimeOoout，一个经常超时的开发的主页.
+### 这里是TimeOoout，一个经常超时的~~憨批~~开发.
 
 ### 常用语言
 
