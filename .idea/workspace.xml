@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8deb3c37-f295-4a11-a9ff-bfcf668e94ed" name="变更" comment="Update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8deb3c37-f295-4a11-a9ff-bfcf668e94ed" name="变更" comment="Update - 2022-09-18-议论文提纲-自信：成功的前提">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
       <workItem from="1662562552809" duration="1032000" />
       <workItem from="1662564749345" duration="809000" />
       <workItem from="1662786210048" duration="17000" />
+      <workItem from="1663514274348" duration="465000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1662477560454</created>
@@ -120,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662565958906</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update - 2022-09-18-议论文提纲-自信：成功的前提">
+      <created>1663514313270</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663514313270</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +160,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Update - 2022-09-18-议论文提纲-自信：成功的前提" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update - 2022-09-18-议论文提纲-自信：成功的前提" />
   </component>
 </project>
