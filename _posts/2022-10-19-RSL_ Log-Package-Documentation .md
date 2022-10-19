@@ -18,7 +18,7 @@ categories: misc
 
 
 
-> 中文文档见 [RSL_Log 中文文档](README_CH.md)
+> 中文文档见 [RSL_Log_中文文档](2022-10-19-RSL_%20Log-中文文档.md)
 
 ### Index
 - [Functions](#functions)
@@ -40,6 +40,7 @@ categories: misc
 * ClearLogs() error
 > All log files except the last three will be deleted.\
 > (Files ending in ". log" in the log folder)
+
 ### Log Operations
 > The input string and parameters will be recorded in the log **at different levels**.\
 > (If successfully initialized)\
