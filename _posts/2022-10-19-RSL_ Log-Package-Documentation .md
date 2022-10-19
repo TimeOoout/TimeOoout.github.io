@@ -11,9 +11,7 @@ categories: misc
 
 > 
 
-<img src="https://img.shields.io/badge/RedStone Skin-Launcher_Modules-red" />
-<img src="https://img.shields.io/badge/MineCraft_Launcher-RedStone_Launcher-brightgreen" />
-<img src="https://img.shields.io/badge/RSL_Log-1.0.0_beta-brightgreen" />
+<img src="https://img.shields.io/badge/RedStone Skin-Launcher_Modules-red" /> <img src="https://img.shields.io/badge/MineCraft_Launcher-RedStone_Launcher-brightgreen" /> <img src="https://img.shields.io/badge/RSL_Log-1.0.0_beta-brightgreen" />
 
 >
 
