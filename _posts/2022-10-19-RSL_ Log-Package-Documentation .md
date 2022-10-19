@@ -18,7 +18,7 @@ categories: misc
 
 
 
-> 中文文档见 [RSL_Log_中文文档](2022-10-19-RSL_%20Log-中文文档.md)
+> 中文文档见 [RSL_Log_中文文档](https://timeooout.github.io/misc/2022/10/19/RSL_-Log-%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.html)
 
 ### Index
 - [Functions](#functions)
@@ -49,7 +49,9 @@ categories: misc
 * LogInfo(format string, args ...interface{})
 * LogDebug(format string, args ...interface{})
 * LogWarning(format string, args ...interface{})
-* LogError(format string, args ...interface{})
+* LogError(format string, args ...interface{}
+
+ 
 ### Output operations
 > Output the input string to the console.\
 > It can be called at any time **without initialization**.
