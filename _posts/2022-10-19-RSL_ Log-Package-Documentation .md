@@ -4,7 +4,6 @@ title: "RSL_ Log Package Documentation"
 categories: misc
 ---
 
-# RSL_ Log Package Documentation
 
 <img src="https://img.shields.io/badge/RedStone Skin-Launcher_Modules-red" />
 <img src="https://img.shields.io/badge/MineCraft_Launcher-RedStone_Launcher-brightgreen" />
@@ -20,19 +19,16 @@ categories: misc
 > 中文文档见 [RSL_Log 中文文档](README_CH.md)
 
 ### Index
-- [RSL_ Log Package Documentation](#rsl_-log-package-documentation)
-      - [Latest Version: 1.0.0_beta](#latest-version-100_beta)
-    - [Index](#index)
-  - [Functions](#functions)
-    - [File Operations](#file-operations)
-    - [Log Operations](#log-operations)
-    - [Output operations](#output-operations)
-  - [Variables](#variables)
-    - [About Paths](#about-paths)
-    - [Automation settings](#automation-settings)
-  - [Examples](#examples)
-    - [Code](#code)
-    - [OutPut](#output)
+- [Functions](#functions)
+  - [File Operations](#file-operations)
+  - [Log Operations](#log-operations)
+  - [Output operations](#output-operations)
+- [Variables](#variables)
+  - [About Paths](#about-paths)
+  - [Automation settings](#automation-settings)
+- [Examples](#examples)
+  - [Code](#code)
+  - [OutPut](#output)
 
 ## Functions
 ### File Operations
