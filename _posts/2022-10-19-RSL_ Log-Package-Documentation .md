@@ -7,7 +7,7 @@ categories: misc
 * A logging package based on Zap secondary encapsulation.
 * It is mainly used for the development of RedStone Launcher, as well as other applications.
 
-#### Latest Version: [1.0.0_beta](#latest-version-100_beta)
+#### Latest Version: [1.0.0_beta](https://github.com/TimeOoout/RedStone-Launcher/tree/master/RSL_Log)
 
 > 
 
