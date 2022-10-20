@@ -34,18 +34,30 @@ categories: misc
 
 ## Functions
 ### File Operations
+
+
 * InitLauncherLogger()
+
+
 > Called before **any log operation**. \
 > Other operations can be performed only after **initialization is successful**.
+
+
 * ClearLogs() error
+
+
 > All log files except the last three will be deleted.\
 > (Files ending in ". log" in the log folder)
 
 ### Log Operations
+
+
 > The input string and parameters will be recorded in the log **at different levels**.\
 > (If successfully initialized)\
 > By default, the logged logs are also output to the **console**.\
 > You can adjust the parameters to prevent them from being output to the console.
+
+
 * LogInfo(format string, args ...interface{})
 * LogDebug(format string, args ...interface{})
 * LogWarning(format string, args ...interface{})
@@ -53,8 +65,12 @@ categories: misc
 
  
 ### Output operations
+
+
 > Output the input string to the console.\
 > It can be called at any time **without initialization**.
+
+
 * PrintInfo(format string, args ...interface{})
 * PrintDebug(format string, args ...interface{})
 * PrintWarning(format string, args ...interface{})
@@ -64,18 +80,34 @@ categories: misc
 
 ## Variables
 ### About Paths
+
+
 * LogFolder = "./LauncherLog/"
+
+
 > This path is the default output path of the log file. If it does not exist, it will be created automatically.\
 > Modify it to output the log file to a different path.
 
+
 ### Automation settings
+
 * AutoLogging = true
+
+
 > Automatically output some logs included in the package. \
 > **(Opening is not recommended in other projects)**
+
+
 * AutoMsg = true
+
+
 > Automatically output some information contained in the package. \
 > **(As in the previous one, it is not recommended to open it in other projects)**
+
+
 * LogtoConsole = true
+
+
 > Output the information written to the log file **to the console at the same time**.
 
 ## Examples
