@@ -52,6 +52,7 @@
       <workItem from="1663514274348" duration="921000" />
       <workItem from="1663602544422" duration="9000" />
       <workItem from="1666193464592" duration="2270000" />
+      <workItem from="1666278171631" duration="1626000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1662477560454</created>
@@ -193,7 +194,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666195416897</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Update - RSL_Log">
+      <created>1666278180596</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1666278180596</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update - RSL_Log">
+      <created>1666279899298</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666279899298</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
