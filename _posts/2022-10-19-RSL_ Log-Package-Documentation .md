@@ -7,8 +7,7 @@ categories: misc
 * A logging package based on Zap secondary encapsulation.
 * It is mainly used for the development of RedStone Launcher, as well as other applications.
 
-#### Latest Version: [1.0.0_beta](https://github.com/TimeOoout/RedStone-Launcher/tree/master/RSL_Log)
-
+#### Latest Version: [1.0.0_beta](https://github.com/TimeOoout/RedStone-Launcher/tree/master/RSL_Core/RSL_Log)
 > 
 
 <img src="https://img.shields.io/badge/RedStone Skin-Launcher_Modules-red" /> <img src="https://img.shields.io/badge/MineCraft_Launcher-RedStone_Launcher-brightgreen" /> <img src="https://img.shields.io/badge/RSL_Log-1.0.0_beta-brightgreen" />

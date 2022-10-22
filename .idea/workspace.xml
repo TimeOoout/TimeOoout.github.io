@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8deb3c37-f295-4a11-a9ff-bfcf668e94ed" name="变更" comment="Update - RSL_Log" />
+    <list default="true" id="8deb3c37-f295-4a11-a9ff-bfcf668e94ed" name="变更" comment="Update - RSL_Log">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +37,35 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="ThisFileDoesn'tSave - 副本 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="minima-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../PythonFiles/Myfiles/TestFiles-Dose not Save" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../PythonFiles/Myfiles/TestFiles-Dose not Save/ThisFileDoesn'tSave - 副本 (2).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ThisFileDoesn'tSave - 副本 (2)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -50,7 +81,8 @@
       <workItem from="1663514274348" duration="921000" />
       <workItem from="1663602544422" duration="9000" />
       <workItem from="1666193464592" duration="2270000" />
-      <workItem from="1666278171631" duration="2061000" />
+      <workItem from="1666278171631" duration="3252000" />
+      <workItem from="1666408622555" duration="821000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1662477560454</created>
@@ -213,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666281353250</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Update - RSL_Log">
+      <created>1666282212740</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1666282212740</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,5 +287,8 @@
     <MESSAGE value="Update" />
     <MESSAGE value="Update - RSL_Log" />
     <option name="LAST_COMMIT_MESSAGE" value="Update - RSL_Log" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/minima_master$ThisFileDoesn_tSave_____2_.coverage" NAME="ThisFileDoesn'tSave - 副本 (2) 覆盖结果" MODIFIED="1666409148072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../PythonFiles/Myfiles/TestFiles-Dose not Save" />
   </component>
 </project>
