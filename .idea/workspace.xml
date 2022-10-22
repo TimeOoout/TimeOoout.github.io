@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8deb3c37-f295-4a11-a9ff-bfcf668e94ed" name="变更" comment="Update - RSL_Log">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8deb3c37-f295-4a11-a9ff-bfcf668e94ed" name="变更" comment="Update - RSL_Log" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +81,7 @@
       <workItem from="1666193464592" duration="2270000" />
       <workItem from="1666278171631" duration="3252000" />
       <workItem from="1666408622555" duration="821000" />
+      <workItem from="1666411071312" duration="744000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1662477560454</created>
@@ -252,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666282212740</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Update - RSL_Log">
+      <created>1666411079238</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1666411079238</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
