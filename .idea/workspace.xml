@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8deb3c37-f295-4a11-a9ff-bfcf668e94ed" name="变更" comment="Update - 语录集">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8deb3c37-f295-4a11-a9ff-bfcf668e94ed" name="变更" comment="Update - 拾柒班徽" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +86,7 @@
       <workItem from="1666423335084" duration="789000" />
       <workItem from="1666534923233" duration="59000" />
       <workItem from="1669133171540" duration="2057000" />
+      <workItem from="1698336098497" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1662477560454</created>
@@ -306,7 +305,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669134641949</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Update - 拾柒班徽">
+      <created>1698336123048</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1698336123048</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Update - 拾柒班徽">
+      <created>1698336323697</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1698336323697</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +354,8 @@
     <MESSAGE value="Update" />
     <MESSAGE value="Update - RSL_Log" />
     <MESSAGE value="Update - 语录集" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update - 语录集" />
+    <MESSAGE value="Update - 拾柒班徽" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update - 拾柒班徽" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/minima_master$ThisFileDoesn_tSave_____2_.coverage" NAME="ThisFileDoesn'tSave - 副本 (2) 覆盖结果" MODIFIED="1666409148072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../PythonFiles/Myfiles/TestFiles-Dose not Save" />
