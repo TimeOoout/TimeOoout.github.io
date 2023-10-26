@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8deb3c37-f295-4a11-a9ff-bfcf668e94ed" name="变更" comment="Update - 拾柒班徽" />
+    <list default="true" id="8deb3c37-f295-4a11-a9ff-bfcf668e94ed" name="变更" comment="Update - 拾柒班徽">
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-27-班徽.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-10-27-班徽.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +88,7 @@
       <workItem from="1666423335084" duration="789000" />
       <workItem from="1666534923233" duration="59000" />
       <workItem from="1669133171540" duration="2057000" />
-      <workItem from="1698336098497" duration="829000" />
+      <workItem from="1698336098497" duration="1428000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1662477560454</created>
@@ -326,7 +328,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698336994820</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Update - 拾柒班徽">
+      <created>1698337162233</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1698337162233</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Update - 拾柒班徽">
+      <created>1698337286703</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1698337286703</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
