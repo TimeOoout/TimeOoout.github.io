@@ -6,13 +6,7 @@ permalink: /about/
 
 ## 这里是TimeOoout，一个经常超时的~~憨批~~开发.
 
-<img src="https://img.shields.io/badge/RedStone_Skin-Developer-red" /> <img src="https://img.shields.io/badge/Linker_Studio-Developer-blue" /> <img src="https://img.shields.io/badge/Student-Grade_9-brightgreen" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TimeOoout&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-
-![TimeOoout's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimeOoout&theme=prussian&show_icons=true&hide_border=true)
-
->
+<img src="https://img.shields.io/badge/RedStone_Skin-Developer-red" /> <img src="https://img.shields.io/badge/Linker_Studio-Developer-blue" /> <img src="https://img.shields.io/badge/Student-Grade_1-brightgreen" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimeOoout&theme=prussian&show_icons=true&hide_border=true)
 
